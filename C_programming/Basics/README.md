@@ -1,5 +1,5 @@
 This folder will be dedicated to learning the basics of C.
-##Learning Objectives
+## Learning Objectives
 ----------------------
 1.Syntax
 2.Data
@@ -8,10 +8,10 @@ This folder will be dedicated to learning the basics of C.
 5.Control
 6.Structures
 ----------------------
-##Resources
+## Resources
 1.Youtube
 2.freeCodeCamp
 3.The C Programming Language - 2nd Edition
 ----------------------
-##Projects
+## Projects
 1.Simple calculator
