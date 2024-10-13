@@ -1,6 +1,5 @@
 This folder will be dedicated to learning the basics of C.
 ## Learning Objectives
-----------------------
 1.Syntax
 2.Data
 3.Types
