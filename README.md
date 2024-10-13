@@ -1,0 +1,1 @@
+This will be a repo documenting my self learning journey after a month enrolling at RMU persuing a Bsc. Computer Science.
